@@ -1,0 +1,4 @@
+rootProject.name = 'microservice-playground-spring-kafka'
+
+include 'spring-kafka-example'
+include 'spring-kafka-multi-threaded-consumption'
